@@ -1,0 +1,14 @@
+limit_turnover_banks = {
+    "тинькофф": 40000000, 
+    "сбербанк": 100000000,
+    "альфабанк": 100000000
+}
+
+limit_turnover_banks_SBP = {
+    "тинькофф": 5000000, 
+    "сбербанк": 100000,
+    "альфабанк": 100000,
+}
+
+api_key = "ezzizvstTSNsPMmgvY"
+api_secret = "Pu0wBNSARiYcC81heRL7XESIfGOZCNZWklgU"
